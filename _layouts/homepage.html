@@ -43,15 +43,21 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+<h1>{{ site.title }}</h1>
+<!-- 
+<position>{{ site.position }}</position><br>
+<autocolor>{{ site.affiliation }}</autocolor><br>
+<email>{{ site.email }}</email> -->
+
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
+        <a href="{{ site.affiliation_link }}" rel="noopener">{% for line in site.affiliation %}
+  <autocolor>{{ line }}</autocolor><br>
+{% endfor %}</a>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
@@ -87,6 +93,12 @@
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-x-twitter"></i>
+        </a>
+        {% endif %}
+
+        {% if site.instagram %}
+        <a style="margin: 0 0 0 0" href="{{ site.instagram }}">
+          <i class="fab fa-instagram"></i>
         </a>
         {% endif %}
         </div>
