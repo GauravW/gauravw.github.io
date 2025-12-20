@@ -5,7 +5,7 @@ affiliation:
   # - Space Radiation Lab
   # - Caltech Optical Observatories
   - California Institute of Technology
-email: gauravw (at) caltech.edu
+email: gauravw@caltech.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -38,7 +38,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans-Serif" # or "Sans"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
