@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  background: linear-gradient(135deg, #c4001a, #ff2e63);
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Pacifico', cursive;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  z-index: 2;
+}
+
+h1 {
+  font-size: 3.2rem;
+  margin-bottom: 40px;
+}
+
+.buttons {
+  position: relative;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  font-size: 1.6rem;
+  padding: 15px 40px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+#yesBtn {
+  background-color: white;
+  color: #c4001a;
+  margin-right: 40px;
+}
+
+#noBtn {
+  background-color: #ff5c5c;
+  color: white;
+  position: relative;
+}
+
+/* Floating hearts */
+.hearts::before {
+  content: "Ayeeeeeeeeeeeeeeee";
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  animation: float 10s linear infinite;
+  font-size: 2rem;
+  opacity: 0.3;
+}
+
+@keyframes float {
+  0% { transform: translateY(100vh); }
+  100% { transform: translateY(-100vh); }
+}
