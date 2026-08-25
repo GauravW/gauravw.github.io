@@ -6,13 +6,13 @@ layout: homepage
 
 ## About me
 
-I am a Post-Doctoral Fellow at [Caltech](https://www.caltech.edu/)’s [Cahill Center for Astronomy & Astrophysics](https://www.astro.caltech.edu/). My interests include building space hardware and instrumentation, and studying rapidly fading relativistic transients. 
+I am a Post-Doctoral Scholar at [Caltech](https://www.caltech.edu/)’s [Cahill Center for Astronomy & Astrophysics](https://www.astro.caltech.edu/). My interests include building space hardware and instrumentation, and studying rapidly fading relativistic transients. 
 
-At the [Space Radiation Lab](https://www.srl.caltech.edu/), I am developing next-generation X-ray detectors for future space missions. At [Caltech Optical Observatories](https://sites.astro.caltech.edu/research/coo/), I am building the next-generation infrared telescope [Cryoscope](https://ui.adsabs.harvard.edu/abs/2025PASP..137f5001K/abstract), to be deployed at Antarctica. I also develop sensitive pipelines for rapid identification of transients like gamma-ray bursts (GRBs) in data from NuSTAR ([SINGS](https://nustarsoc.caltech.edu/NuSTAR_Public/grbs/)) and AstroSat-CZTI ([CIFT](https://astrosat.iucaa.in/czti/?q=grb)).
+With the [Space Radiation Lab](https://www.srl.caltech.edu/), I am developing next-generation X-ray imaging detectors for future space telescopes beyond NuSTAR. With [Caltech Optical Observatories](https://sites.astro.caltech.edu/research/coo/), I am building the next-generation infrared telescope [Cryoscope](https://ui.adsabs.harvard.edu/abs/2025PASP..137f5001K/abstract), to be deployed at Antarctica. I also develop sensitive pipelines for rapid identification of transients like gamma-ray bursts (GRBs) in data from NuSTAR ([SINGS](https://nustarsoc.caltech.edu/NuSTAR_Public/grbs/)) and AstroSat-CZTI ([CIFT](https://astrosat.iucaa.in/czti/?q=grb)).
 
-I am also a [Keck Institute for Space Studies (KISS)](https://www.kiss.caltech.edu/) affiliate for the 2026 cohort.
+I am also a [Keck Institute for Space Studies (KISS)](https://www.kiss.caltech.edu/) affiliate (2026 cohort).
 
-I am originally from Nagpur, MH (in the central part of India). I spent a decade in Mumbai for my studies at IIT Bombay, before moving to California, USA in 2025.
+My hometown is Nagpur, MH (in the central part of India). I spent a decade in Mumbai for my studies at IIT Bombay, before moving to California in 2025.
 
 ---
 
